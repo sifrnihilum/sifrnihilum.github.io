@@ -1,11 +1,11 @@
 entries:
-  - title: me
+  - title: thesifr
     entries:
       - title: email
-        url: mailto:riccardo.graziosi97@gmail.com
+        url: mailto:sifr@thesifr.com
       - title: github
-        url: http://github.com/riggraz/
-      - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>, <a href='/feed.xml'>rss feed</a>"
+        url: http://github.com/sifrnihilum/
+      - title: "keep in touch: <a href='/feed.xml'>rss feed</a>"
 
   - title: thoughts
     post_list: true
