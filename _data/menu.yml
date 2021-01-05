@@ -5,7 +5,6 @@ entries:
         url: mailto:sifr@thesifr.com
       - title: github
         url: http://github.com/sifrnihilum/
-      - title: "keep in touch: <a href='/feed.xml'>rss feed</a>"
 
   - title: cyphers
     post_list:
@@ -13,3 +12,8 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml
+
+
