@@ -1,0 +1,25 @@
+---
+author: sifr
+title: smallnet
+---
+This post brought to you by hours of lofi hiphop.
+
+[![☯ Japanese Lofi Hip Hop ☯ beat to relax to by Tenno](http://img.youtube.com/vi/d35pHYwgVpg/0.jpg)](http://www.youtube.com/watch?v=d35pHYwgVpg "KIREINA")
+
+Todays theme is Japanese Lofi.
+
+Last year was an adventure. Having not left the house since march, I feel like I've had plenty of time to dedicate to discovering weird things, and I feel like I should share some of those things.
+First up, I've been figuring out the "small internet" I started trying to get gopher going, and I found it to be fantastic, but not very engaging. The things people were posting on Gopher were interesting, but not particularly focus grabbing. However, looking into that led me to OTHER things, as such I found gemini.
+
+Now gemini is fun. I made a site, I used gssg to generate it, I played with posting things at random, and I enjoyed the whole process.
+
+What really grabbed me though, was the content available. So many cool people have blogs available for you to read, have made things for you to do, and have in all sorts of ways built, with what is seemingly a very simplistic protocol, some fun, advanced, but still small things.
+
+I could link you some of my favorites, but luckily the wonders of gemini are such that others already have! I would start with the directory, which has just recently popped into existence [here](https://portal.mozz.us/gemini/directory.randomroad.net/) Now, I linked you to that via the portal at mozz.us, which is a perfectly valid way to explore gemini space, but also... Not much fun.
+
+There are hundreds of clients by this point, and new ones coming in daily, for all sorts of systems. From Windows to Plan9. As an Emacs user my current choice is [Elpher](https://thelambdalab.xyz/elpher/) Which works for both gemini and gopher, in case there is stuff you like on both.
+
+It's clearly not the ONLY option, and tastes obviously vary. For a fairly good list of both clients, servers, and fun things to do you can check the awesome-gemini list over [here](https://github.com/kr1sp1n/awesome-gemini).
+
+If you find anything fun out there on the smallnet, let me know! I'm just scratching the surface and it has inspired all sorts of fun ideas in me!
+
