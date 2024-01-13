@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>An Empty Circle</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+<style>
+ul.a {
+  list-style-type: circle;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ac5293;
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";color: #dffffa;font-size:16px;margin:2em auto;max-width:800px;padding:1em;line-height:1.4;text-align:justify;-webkit-hyphens:auto;-ms-hyphens:auto;hyphens:auto
+}
+
+@media (prefers-color-scheme: light) {
+body { background-color: #dffffa;
+font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";color: #ac5293;font-size:16px;margin:2em auto;max-width:800px;padding:1em;l\
+ine-height:1.4;text-align:justify;-webkit-hyphens:auto;-ms-hyphens:auto;hyphens:auto1
+     }}
+
+/* Style the header */
+.header {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+.footer {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <img src="img/blank-violet-circle-neon-signboard-vector.jpg"  width="1000" height="300">
+</div>
+
+<div class="row">
+  <div class="column side"></div>
+  <div class="column middle">
+  <ul class="a">
+</ul>
+</div>
+  <div class="column side"></div>
+</div>
+
+<div class="footer">
+</div>
+
+</body>
+</html>
